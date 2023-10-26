@@ -88,9 +88,9 @@
   display: block;
 }
 
-.img-icon.logo-telegram {
+.img-icon.logo-dune {
   width: 1.7vw;
-  height: 1.4vw;
+  height: 1.7vw;
   display: block;
 }
 
@@ -151,7 +151,7 @@
   right: 0;
 }
 
-.icon-container.for-footer.telegram {
+.icon-container.for-footer.dune {
   top: auto;
   bottom: 0;
   left: auto;
@@ -780,7 +780,7 @@
   right: 21.3vw;
 }
 
-.link-telegram {
+.link-dune {
   z-index: 2;
   width: 3.4vw;
   height: 3.4vw;
@@ -1671,9 +1671,9 @@
     height: 1.1vw;
   }
 
-  .img-icon.logo-telegram {
+  .img-icon.logo-dune {
     width: 1.5vw;
-    height: 1.25vw;
+    height: 1.5vw;
   }
 
   .link {
@@ -1712,7 +1712,7 @@
     right: 0;
   }
 
-  .icon-container.for-footer.telegram {
+  .icon-container.for-footer.dune {
     padding: .7vw;
     bottom: 0;
     right: 0;
@@ -2085,7 +2085,7 @@
     right: 21.1vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 3.1vw;
     height: 3.1vw;
     top: auto;
@@ -2763,9 +2763,9 @@
     height: 1vw;
   }
 
-  .img-icon.logo-telegram {
+  .img-icon.logo-dune {
     width: 1.3vw;
-    height: 1.1vw;
+    height: 1.3vw;
   }
 
   .link {
@@ -2816,7 +2816,7 @@
     right: 0%;
   }
 
-  .icon-container.for-footer.telegram {
+  .icon-container.for-footer.dune {
     padding: .8vw .7vw;
     bottom: 0;
     right: 0;
@@ -3205,7 +3205,7 @@
     right: 24.3vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 2.7vw;
     height: 2.7vw;
     top: auto;
@@ -3904,9 +3904,9 @@
     height: .78vw;
   }
 
-  .img-icon.logo-telegram {
+  .img-icon.logo-dune {
     width: 1vw;
-    height: .8vw;
+    height: 1vw;
   }
 
   .link {
@@ -3971,7 +3971,7 @@
     right: 0%;
   }
 
-  .icon-container.for-footer.telegram {
+  .icon-container.for-footer.dune {
     width: 2vw;
     height: 2vw;
     padding: .5vw;
@@ -4393,7 +4393,7 @@
     right: 25.6vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 2vw;
     height: 2vw;
     top: auto;
@@ -5126,8 +5126,8 @@
     height: 1.9vw;
   }
 
-  .img-icon.logo-telegram {
-    width: 2.6vw;
+  .img-icon.logo-dune {
+    width: 2vw;
     height: 2vw;
   }
 
@@ -5178,7 +5178,7 @@
     right: 0;
   }
 
-  .icon-container.for-footer.discord, .icon-container.for-footer.telegram {
+  .icon-container.for-footer.discord, .icon-container.for-footer.dune {
     padding: 1.3vw;
     top: auto;
     bottom: 0%;
@@ -5590,7 +5590,7 @@
     right: 18.2vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 5.2vw;
     height: 5.2vw;
     top: auto;
@@ -6147,9 +6147,9 @@
     height: 2.6vw;
   }
 
-  .img-icon.logo-telegram {
+  .img-icon.logo-dune {
     width: 3.5vw;
-    height: 2.8vw;
+    height: 3.5vw;
   }
 
   .icon-container.for-footer {
@@ -6180,7 +6180,7 @@
     right: 0%;
   }
 
-  .icon-container.for-footer.telegram {
+  .icon-container.for-footer.dune {
     padding: 1.7vw;
     top: auto;
     bottom: 0%;
@@ -6574,7 +6574,7 @@
     right: 35.4vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 7vw;
     height: 7vw;
     top: auto;
@@ -7127,9 +7127,9 @@
     height: 4.6vw;
   }
 
-  .img-icon.logo-telegram {
+  .img-icon.logo-dune {
     width: 6.25vw;
-    height: 5vw;
+    height: 6.25vw;
   }
 
   .icon-container.for-footer {
@@ -7155,7 +7155,7 @@
     right: 0%;
   }
 
-  .icon-container.for-footer.telegram {
+  .icon-container.for-footer.dune {
     padding: 3.1vw;
     top: auto;
     bottom: 0%;
@@ -7595,7 +7595,7 @@
     right: 25.3vw;
   }
 
-  .link-telegram {
+  .link-dune {
     width: 12.5vw;
     height: 12.5vw;
     top: auto;
